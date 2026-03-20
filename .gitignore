@@ -1,0 +1,5 @@
+# Memory files (local only)
+.claude/
+
+# Superpowers brainstorm outputs
+.superpowers/
